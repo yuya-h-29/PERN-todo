@@ -2,9 +2,6 @@
 
 ### ✒️ *A simple ToDo List app* 📖
 
-
-*PERN-todo is a fullstack app using PostgreSQL, Express, React, and Node.js!
-
 *I followed [this tutorial](https://www.youtube.com/watch?v=ldYcgPKEZC8&ab_channel=freeCodeCamp.org) in order to learn how to make this app.
 
 
